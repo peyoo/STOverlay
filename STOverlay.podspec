@@ -3,5 +3,5 @@ Pod::Spec.new do |s|
   s.version  = '0.01'
   s.license  = 'BSD'
   s.source   = { :git => 'https://github.com/peyoo/STOverlay.git'}
-  s.source_files   = 'STOverlay/STOverlayView.{m,h}'
+  s.source_files   = 'STOverlay/{STOverlayView,STOverlayController}.{m,h}'
 end
